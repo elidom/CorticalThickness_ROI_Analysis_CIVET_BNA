@@ -1,8 +1,4 @@
-# CorticalThickness_ROI_Analysis_CIVET_BNA
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #   
-# # ROI Analysis for Cortical Thickness (Using CIVET and the Human Brainnetome Atlas) # # 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# ROI Analysis for Cortical Thickness (Using CIVET and the Human Brainnetome Atlas)
 
  ____________
 < Hey there! >
