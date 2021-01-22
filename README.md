@@ -1,7 +1,7 @@
 # ROI Analysis for Cortical Thickness (Using CIVET and the Human Brainnetome Atlas)
 
  ____________
-< Hey there! >
+  Hey there! 
  ------------
         \   ^__^
          \  (oo)\_______
@@ -34,6 +34,6 @@ It takes the following arguments:
 [7]: If comparing two groups, here you must input the code of the experimental group
 [8]: And control group's code
 
-Notice: You should execute these scripts from the same directory where the required files are located.
+Note: You should execute these scripts from the same directory where the required files are located.
 
-- E.D. marcoseliseo.da at gmail dot com
+marcoseliseo.da at gmail dot com
